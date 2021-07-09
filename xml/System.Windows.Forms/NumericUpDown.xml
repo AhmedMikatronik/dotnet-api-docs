@@ -442,7 +442,7 @@
   
  ]]></format>
         </remarks>
-        <exception cref="T:System.ArgumentOutOfRangeException">The assigned value is not greater than or equal to zero.</exception>
+        <exception cref="T:System.ArgumentOutOfRangeException">The assigned value is less than zero.</exception>
         <altmember cref="P:System.Windows.Forms.NumericUpDown.Minimum" />
         <altmember cref="P:System.Windows.Forms.NumericUpDown.Maximum" />
       </Docs>
